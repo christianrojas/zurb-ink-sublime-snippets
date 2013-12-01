@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+<!-- Visibility Classes: [show-for-small hide-for-small] -->
+<!-- Size Classes: [one two three four five six seven eight nine ten eleven twelve] -->
+<table class="${1:size} columns">
+  <tr>
+    <!-- Panel Class: [panel] -->
+    <td>
+      $2
+    </td>
+    <td class="expander"></td>
+  </tr>
+</table>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zi-columns</tabTrigger>
+  <description>ZURB Ink Columns</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

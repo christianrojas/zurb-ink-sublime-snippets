@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+<td class="wrapper${1: last}">
+  $2
+</td>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zi-wrapper</tabTrigger>
+  <description>ZURB Ink Wrapper</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

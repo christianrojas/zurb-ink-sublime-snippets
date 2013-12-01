@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+<table class="container">
+  <tr>
+    <td>
+      $1
+    </td>
+  </tr>
+</table>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zi-container</tabTrigger>
+  <description>ZURB Ink Container</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

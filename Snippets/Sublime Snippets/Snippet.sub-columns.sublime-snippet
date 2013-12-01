@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+<!-- Visibility Classes: [show-for-small hide-for-small] -->
+<!-- Size Classes: [one two three four five six seven eight nine ten eleven twelve] -->
+<td class="${1:size} sub-columns${2: last}">
+  $3
+</td>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zi-sub-columns</tabTrigger>
+  <description>ZURB Ink Sub Columns</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

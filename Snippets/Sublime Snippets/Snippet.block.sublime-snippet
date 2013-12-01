@@ -1,0 +1,23 @@
+<snippet>
+  <content><![CDATA[
+<!-- Block Size: [two-up three-up four-up five-up six-up seven-up eight-up] -->
+<table class="block-grid${1: block-size}">
+  <tr>
+    <td>
+
+      Column #1
+
+    </td><td> <!-- Make sure the tags are directly next to each other -->
+
+      Column #2
+
+    </td>
+  </tr>
+</table>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zi-block</tabTrigger>
+  <description>ZURB Ink Block Grid</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

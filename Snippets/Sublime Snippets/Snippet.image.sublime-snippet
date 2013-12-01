@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<!-- Size by Columns: [1:30 2:80 3:130 4:180 5:230 6:280 7:330 8:380 9:430 10:480 11:530 12:580] -->
+<img height="${1:size}" width="${1:size}" src="${2:src}">
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zi-image</tabTrigger>
+  <description>ZURB Ink Image</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>

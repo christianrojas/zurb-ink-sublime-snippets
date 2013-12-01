@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+<!-- Size Classes:   [tiny-button small-button medium-button large-button] -->
+<!-- Radius Classes: [radius round] -->
+<!-- Color Classes:  [primary secondary alert success] -->
+<table class="button">
+  <tr>
+    <td>
+      <a href="#">${1:Button Name}</a>
+    </td>
+  </tr>
+</table>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>zi-button</tabTrigger>
+  <description>ZURB Ink Button</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html</scope>
+</snippet>
