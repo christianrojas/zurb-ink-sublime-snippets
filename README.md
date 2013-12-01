@@ -24,7 +24,7 @@
 
 + Each snippet is prefixed with zi- (ZURB Ink).
 + Each snippet is singular, unless the name of the component ends in an s (columns)
-<!--+ Available classes are included as comments in the snippets-->
++ Available classes are included as comments in the snippets
 
 
 ### Grid Structure
