@@ -10,14 +10,14 @@
 `cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages`
 
 2. Clone repository into packages folder
-`git clone https://github.com/zurb/foundation-5-sublime-snippets.git`
+`git clone https://github.com/christianrojas/zurb-ink-sublime-snippets.git`
 
 ###### Windows Instructions
 
 1. CD into Sublime Text packages folder
 `cd "%AppData%\Sublime Text 3\Packages\User"`
 2. Clone repository into packages folder
-`git clone https://github.com/zurb/foundation-5-sublime-snippets.git`
+`git clone https://github.com/christianrojas/zurb-ink-sublime-snippets.git`
 
 
 ## Snippets
