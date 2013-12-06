@@ -4,6 +4,16 @@
 
 ## Installation
 
+ZURB Ink Sublime Snippets work with the latest development builds of Sublime Text, including [Sublime Text 2](http://www.sublimetext.com/dev) and [Sublime Text 3](http://www.sublimetext.com/3dev).
+
+### Using Sublime Package Control
+
+If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install ZURB Ink Sublime Snippets via the `Package Control: Install Package` menu item. The ZURB Ink Sublime Snippets package is listed as `ZURB Ink Snippets` in the packages list.
+
+### Using Git
+
+Alternatively, if you are a git user, you can install the snippets and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text application settings area.
+
 ###### Mac/Linux Instructions
 
 1. CD into Sublime Text packages folder
@@ -18,6 +28,14 @@
 `cd "%AppData%\Sublime Text 3\Packages\User"`
 2. Clone repository into packages folder
 `git clone https://github.com/christianrojas/zurb-ink-sublime-snippets.git`
+
+
+### Download Manually
+
+* Download the files using the GitHub .zip download option
+* Unzip the files.
+* Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
+* Copy the folder into your Sublime Text `Packages` directory
 
 
 ## Snippets
