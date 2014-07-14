@@ -1,6 +1,6 @@
 # ZURB Ink Sublime Snippets
 
-###### ZURB Ink version: v1.0.4
+###### ZURB Ink version: v1.0.5
 
 ## Installation
 
